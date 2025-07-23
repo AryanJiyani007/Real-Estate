@@ -1,8 +1,10 @@
 # Real Estate Platform
 
-![Project Logo](public/logo.png)
-
 A fullstack real estate web application for property listings, user management, and real-time chat. Built with React (frontend) and Node.js/Express/Prisma (backend).
+
+##images
+![alt text](image-1.png)
+![alt text](image.png)
 
 ## Features
 - Browse, search, and filter property listings
